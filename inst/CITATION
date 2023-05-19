@@ -1,0 +1,10 @@
+bibentry("Article",
+  title        = "Estimating reducible stochastic differential equations by conversion to a least-squares problem",
+  author       = "Oscar Garcia",
+  journal      = "Computational Statistics",
+  year         = 2019,
+  volume       = 34,
+  number       = 1,
+  pages        = "23--46",
+  doi          = "10.1007/s00180-018-0837-4",
+)
